@@ -15,7 +15,7 @@ Plugin 'VundleVim/Vundle.vim'
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " plugin on GitHub repo
 Plugin 'easymotion/vim-easymotion'
-Plugin 'skywind3000/vim-keysound'
+" Plugin 'skywind3000/vim-keysound'
 Plugin 'itchyny/calendar.vim'
 Plugin 'tpope/vim-fugitive'
 Plugin 'christoomey/vim-run-interactive'
