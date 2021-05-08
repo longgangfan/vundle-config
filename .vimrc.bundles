@@ -82,8 +82,8 @@ filetype plugin indent on    " required
 "
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
-let g:keysound_enable = 1
-let g:keysound_theme = 'typewriter'
+" let g:keysound_enable = 1
+" let g:keysound_theme = 'typewriter'
 " Prevent that vim detect a file with the tex suffix as a plaintex
 let g:tex_flavor='latex'
 "Set the latexmk engines
