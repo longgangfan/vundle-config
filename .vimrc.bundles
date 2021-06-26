@@ -49,6 +49,7 @@ Plugin 'rhowardiv/nginx-vim-syntax'
 Plugin 'tomasr/molokai'
 Plugin 'klen/python-mode'
 Plugin 'lervag/vimtex'
+Plug 'ojroques/vim-oscyank'
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " plugin from http://vim-scripts.org/vim/scripts.html
 Plugin 'tComment'
